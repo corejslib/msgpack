@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.2 (2025-10-26)
+
+**Other changes:**
+
+- style: lint (● [4fb9177](https://github.com/softvisio-node/msgpack/commit/4fb9177); 👬 zdm)
+
+Compare with the previous release: [v3.5.1](https://github.com/softvisio-node/msgpack/compare/v3.5.1...v3.5.2)
+
 ### v3.5.1 (2025-08-09)
 
 **Other changes:**
