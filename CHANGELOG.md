@@ -4,73 +4,73 @@
 
 **Other changes:**
 
-- style: lint (● [4fb9177](https://github.com/softvisio-node/msgpack/commit/4fb9177); 👬 zdm)
+- style: lint (● [4fb9177](https://github.com/c0rejs/msgpack/commit/4fb9177); 👬 zdm)
 
-Compare with the previous release: [v3.5.1](https://github.com/softvisio-node/msgpack/compare/v3.5.1...v3.5.2)
+Compare with the previous release: [v3.5.1](https://github.com/c0rejs/msgpack/compare/v3.5.1...v3.5.2)
 
 ### v3.5.1 (2025-08-09)
 
 **Other changes:**
 
-- docs: update (● [27b66db](https://github.com/softvisio-node/msgpack/commit/27b66db); 👬 zdm)
+- docs: update (● [27b66db](https://github.com/c0rejs/msgpack/commit/27b66db); 👬 zdm)
 
-Compare with the previous release: [v3.5.0](https://github.com/softvisio-node/msgpack/compare/v3.5.0...v3.5.1)
+Compare with the previous release: [v3.5.0](https://github.com/c0rejs/msgpack/compare/v3.5.0...v3.5.1)
 
 ### v3.5.0 (2025-08-09)
 
 **New features:**
 
-- \[MINOR] feat: rename exports (● [61feb29](https://github.com/softvisio-node/msgpack/commit/61feb29); 👬 zdm)
+- \[MINOR] feat: rename exports (● [61feb29](https://github.com/c0rejs/msgpack/commit/61feb29); 👬 zdm)
 
-Compare with the previous release: [v3.4.13](https://github.com/softvisio-node/msgpack/compare/v3.4.13...v3.5.0)
+Compare with the previous release: [v3.4.13](https://github.com/c0rejs/msgpack/compare/v3.4.13...v3.5.0)
 
 ### v3.4.13 (2025-07-23)
 
 **Other changes:**
 
-- style: update .npmrc (● [4ba72ef](https://github.com/softvisio-node/msgpack/commit/4ba72ef); 👬 zdm)
+- style: update .npmrc (● [4ba72ef](https://github.com/c0rejs/msgpack/commit/4ba72ef); 👬 zdm)
 
-Compare with the previous release: [v3.4.12](https://github.com/softvisio-node/msgpack/compare/v3.4.12...v3.4.13)
+Compare with the previous release: [v3.4.12](https://github.com/c0rejs/msgpack/compare/v3.4.12...v3.4.13)
 
 ### v3.4.12 (2025-07-23)
 
 **Bug fixes:**
 
-- \[PATCH] fix: update editorconfig (● [b80fc8a](https://github.com/softvisio-node/msgpack/commit/b80fc8a); 👬 zdm)
+- \[PATCH] fix: update editorconfig (● [b80fc8a](https://github.com/c0rejs/msgpack/commit/b80fc8a); 👬 zdm)
 
-Compare with the previous release: [v3.4.11](https://github.com/softvisio-node/msgpack/compare/v3.4.11...v3.4.12)
+Compare with the previous release: [v3.4.11](https://github.com/c0rejs/msgpack/compare/v3.4.11...v3.4.12)
 
 ### v3.4.11 (2025-07-22)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix editorconfig (● [bb0ead5](https://github.com/softvisio-node/msgpack/commit/bb0ead5); 👬 zdm)
+- \[PATCH] fix: fix editorconfig (● [bb0ead5](https://github.com/c0rejs/msgpack/commit/bb0ead5); 👬 zdm)
 
-Compare with the previous release: [v3.4.10](https://github.com/softvisio-node/msgpack/compare/v3.4.10...v3.4.11)
+Compare with the previous release: [v3.4.10](https://github.com/c0rejs/msgpack/compare/v3.4.10...v3.4.11)
 
 ### v3.4.10 (2025-07-21)
 
 **Other changes:**
 
-- style: lint (● [f02c413](https://github.com/softvisio-node/msgpack/commit/f02c413); 👬 zdm)
+- style: lint (● [f02c413](https://github.com/c0rejs/msgpack/commit/f02c413); 👬 zdm)
 
-Compare with the previous release: [v3.4.9](https://github.com/softvisio-node/msgpack/compare/v3.4.9...v3.4.10)
+Compare with the previous release: [v3.4.9](https://github.com/c0rejs/msgpack/compare/v3.4.9...v3.4.10)
 
 ### v3.4.9 (2025-07-16)
 
 **Other changes:**
 
-- style: lint (● [9d56cf6](https://github.com/softvisio-node/msgpack/commit/9d56cf6); 👬 zdm)
+- style: lint (● [9d56cf6](https://github.com/c0rejs/msgpack/commit/9d56cf6); 👬 zdm)
 
-Compare with the previous release: [v3.4.8](https://github.com/softvisio-node/msgpack/compare/v3.4.8...v3.4.9)
+Compare with the previous release: [v3.4.8](https://github.com/c0rejs/msgpack/compare/v3.4.8...v3.4.9)
 
 ### v3.4.8 (2025-07-16)
 
 **Other changes:**
 
-- docs: update (● [957cbfe](https://github.com/softvisio-node/msgpack/commit/957cbfe); 👬 zdm)
+- docs: update (● [957cbfe](https://github.com/c0rejs/msgpack/commit/957cbfe); 👬 zdm)
 
-Compare with the previous release: [v3.4.7](https://github.com/softvisio-node/msgpack/compare/v3.4.7...v3.4.8)
+Compare with the previous release: [v3.4.7](https://github.com/c0rejs/msgpack/compare/v3.4.7...v3.4.8)
 
 ### v3.4.7 (2025-06-07)
 
@@ -78,7 +78,7 @@ Compare with the previous release: [v3.4.7](https://github.com/softvisio-node/ms
 
 - \[PATCH] chore: update cli config (👬 zdm)
 
-Compare with the previous release: [v3.4.6](https://github.com/softvisio-node/msgpack/compare/v3.4.6...v3.4.7)
+Compare with the previous release: [v3.4.6](https://github.com/c0rejs/msgpack/compare/v3.4.6...v3.4.7)
 
 ### v3.4.6 (2025-06-01)
 
@@ -86,7 +86,7 @@ Compare with the previous release: [v3.4.6](https://github.com/softvisio-node/ms
 
 - \[PATCH] chore: update docs (👬 zdm)
 
-Compare with the previous release: [v3.4.5](https://github.com/softvisio-node/msgpack/compare/v3.4.5...v3.4.6)
+Compare with the previous release: [v3.4.5](https://github.com/c0rejs/msgpack/compare/v3.4.5...v3.4.6)
 
 ### 3.4.5 (2025-03-26)
 
@@ -94,7 +94,7 @@ Other changes:
 
 - chore: update markdown code tags
 
-Compare with the previous release: [`v3.4.4...v3.4.5`](https://github.com/softvisio-node/msgpack/compare/v3.4.4...v3.4.5)
+Compare with the previous release: [`v3.4.4...v3.4.5`](https://github.com/c0rejs/msgpack/compare/v3.4.4...v3.4.5)
 
 ### 3.4.4 (2025-02-27)
 
@@ -102,7 +102,7 @@ Other changes:
 
 - chore: add editorconfig yaml
 
-Compare with the previous release: [`v3.4.3...v3.4.4`](https://github.com/softvisio-node/msgpack/compare/v3.4.3...v3.4.4)
+Compare with the previous release: [`v3.4.3...v3.4.4`](https://github.com/c0rejs/msgpack/compare/v3.4.3...v3.4.4)
 
 ### 3.4.3 (2025-02-26)
 
@@ -110,7 +110,7 @@ Other changes:
 
 - chore: update editorconfig
 
-Compare with the previous release: [`v3.4.2...v3.4.3`](https://github.com/softvisio-node/msgpack/compare/v3.4.2...v3.4.3)
+Compare with the previous release: [`v3.4.2...v3.4.3`](https://github.com/c0rejs/msgpack/compare/v3.4.2...v3.4.3)
 
 ### 3.4.2 (2025-02-19)
 
@@ -118,7 +118,7 @@ Other changes:
 
 - chore: update cli config
 
-Compare with the previous release: [`v3.4.1...v3.4.2`](https://github.com/softvisio-node/msgpack/compare/v3.4.1...v3.4.2)
+Compare with the previous release: [`v3.4.1...v3.4.2`](https://github.com/c0rejs/msgpack/compare/v3.4.1...v3.4.2)
 
 ### 3.4.1 (2024-12-22)
 
@@ -126,7 +126,7 @@ Other changes:
 
 - chore: update decodeStream
 
-[Compare with the previous release: v3.4.0 ... v3.4.1](https://github.com/softvisio-node/msgpack/compare/v3.4.0...v3.4.1)
+[Compare with the previous release: v3.4.0 ... v3.4.1](https://github.com/c0rejs/msgpack/compare/v3.4.0...v3.4.1)
 
 ### 3.4.0 (2024-12-22)
 
@@ -134,7 +134,7 @@ Features:
 
 - feat: update decodeStream
 
-[Compare with the previous release: v3.3.24 ... v3.4.0](https://github.com/softvisio-node/msgpack/compare/v3.3.24...v3.4.0)
+[Compare with the previous release: v3.3.24 ... v3.4.0](https://github.com/c0rejs/msgpack/compare/v3.3.24...v3.4.0)
 
 ### 3.3.24 (2024-12-07)
 
@@ -142,7 +142,7 @@ Other changes:
 
 - chore: set yaml indent to 4 spaces
 
-[Compare with the previous release: v3.3.23 ... v3.3.24](https://github.com/softvisio-node/msgpack/compare/v3.3.23...v3.3.24)
+[Compare with the previous release: v3.3.23 ... v3.3.24](https://github.com/c0rejs/msgpack/compare/v3.3.23...v3.3.24)
 
 ### 3.3.23 (2024-11-29)
 
@@ -150,7 +150,7 @@ Other changes:
 
 - chore: lint
 
-[Compare with the previous release: v3.3.22 ... v3.3.23](https://github.com/softvisio-node/msgpack/compare/v3.3.22...v3.3.23)
+[Compare with the previous release: v3.3.22 ... v3.3.23](https://github.com/c0rejs/msgpack/compare/v3.3.22...v3.3.23)
 
 ### 3.3.22 (2024-10-29)
 
@@ -158,25 +158,25 @@ Other changes:
 
 - chore: update docs
 
-[Compare with the previous release: v3.3.21 ... v3.3.22](https://github.com/softvisio-node/msgpack/compare/v3.3.21...v3.3.22)
+[Compare with the previous release: v3.3.21 ... v3.3.22](https://github.com/c0rejs/msgpack/compare/v3.3.21...v3.3.22)
 
 ### 3.3.21 (2024-10-20)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/msgpack/compare/v3.3.20...v3.3.21)
+[Full list of the changes](https://github.com/c0rejs/msgpack/compare/v3.3.20...v3.3.21)
 
 ### 3.3.20 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/msgpack/compare/v3.3.19...v3.3.20)
+[Full list of the changes](https://github.com/c0rejs/msgpack/compare/v3.3.19...v3.3.20)
 
 ### 3.3.19 (2024-10-11)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/msgpack/compare/v3.3.18...v3.3.19)
+[Full list of the changes](https://github.com/c0rejs/msgpack/compare/v3.3.18...v3.3.19)
 
 ### 3.3.18 (2024-10-06)
 
