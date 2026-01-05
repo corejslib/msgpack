@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.5 (2026-01-05)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [c24cab4](https://github.com/c0rejs/msgpack/commit/c24cab4); 👬 zdm)
+
+Compare with the previous release: [v3.5.4](https://github.com/c0rejs/msgpack/compare/v3.5.4...v3.5.5)
+
 ### v3.5.4 (2025-12-11)
 
 **Bug fixes:**
