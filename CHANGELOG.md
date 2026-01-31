@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.5.9 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [f572bd9](https://github.com/corejslib/msgpack/commit/f572bd9), [2fe9f94](https://github.com/corejslib/msgpack/commit/2fe9f94); 👬 zdm)
+
+- chore(metadata): update package metadata (● [1d06dff](https://github.com/corejslib/msgpack/commit/1d06dff); 👬 zdm)
+
+- docs: update (● [3b1433f](https://github.com/corejslib/msgpack/commit/3b1433f); 👬 zdm)
+
+Compare with the previous release: [v3.5.8](https://github.com/corejslib/msgpack/compare/v3.5.8...v3.5.9)
+
 ### v3.5.8 (2026-01-29)
 
 No changes since the previous release.
