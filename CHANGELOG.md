@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.10 (2026-02-05)
+
+**Other changes:**
+
+- chore: remove @zdm npm registry (● [e7cd94d](https://github.com/corejslib/msgpack/commit/e7cd94d); 👬 zdm)
+
+Compare with the previous release: [v3.5.9](https://github.com/corejslib/msgpack/compare/v3.5.9...v3.5.10)
+
 ### v3.5.9 (2026-01-31)
 
 **Other changes:**
