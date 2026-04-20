@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.12 (2026-04-20)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update .editorconfig (● [215c9a4](https://github.com/corejslib/msgpack/commit/215c9a4); 👬 zdm)
+
+Compare with the previous release: [v3.5.11...v3.5.12](https://github.com/corejslib/msgpack/compare/v3.5.11...v3.5.12)
+
 ### v3.5.11 (2026-03-11)
 
 **Other changes:**
