@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.13 (2026-05-07)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename cli.config.yaml to scli.config.yaml (● [a6db84b](https://github.com/corejslib/msgpack/commit/a6db84b); 👬 zdm)
+
+Compare with the previous release: [v3.5.12...v3.5.13](https://github.com/corejslib/msgpack/compare/v3.5.12...v3.5.13)
+
 ### v3.5.12 (2026-04-20)
 
 **Code refactoring:**
