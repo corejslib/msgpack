@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.15 (2026-05-09)
+
+**Other changes:**
+
+- style: lint (● [8cce626](https://github.com/corejslib/msgpack/commit/8cce626), [77b7947](https://github.com/corejslib/msgpack/commit/77b7947); 👬 zdm)
+
+Compare with the previous release: [v3.5.14...v3.5.15](https://github.com/corejslib/msgpack/compare/v3.5.14...v3.5.15)
+
 ### v3.5.14 (2026-05-09)
 
 **Other changes:**
