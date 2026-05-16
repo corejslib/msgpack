@@ -1,6 +1,6 @@
 {
     "name": "@corejslib/msgpack",
-    "version": "3.5.15",
+    "version": "3.5.16",
     "description": "Fork of notepack.io with improvements",
     "keywords": [
         "softvisio",
