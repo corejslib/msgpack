@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.17 (2026-05-16)
+
+**Other changes:**
+
+- docs: update (● [75d97a8](https://github.com/corejslib/msgpack/commit/75d97a8); 👬 zdm)
+
+Compare with the previous release: [v3.5.16...v3.5.17](https://github.com/corejslib/msgpack/compare/v3.5.16...v3.5.17)
+
 ### v3.5.16 (2026-05-16)
 
 **Other changes:**
