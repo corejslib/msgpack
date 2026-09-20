@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.23 (2026-09-20)
+
+**Other changes:**
+
+- style: lint (● [bcad64b](https://github.com/corejslib/msgpack/commit/bcad64b); 👬 zdm)
+
+Compare with the previous release: [v3.5.22...v3.5.23](https://github.com/corejslib/msgpack/compare/v3.5.22...v3.5.23)
+
 ### v3.5.22 (2026-08-04)
 
 **Other changes:**
