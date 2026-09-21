@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.6.0 (2026-09-21)
+
+**New features:**
+
+- \[MINOR] feat: export browser MsgPack helpers (● [d932222](https://github.com/corejslib/msgpack/commit/d932222); 👬 zdm)
+
+Compare with the previous release: [v3.5.23...v3.6.0](https://github.com/corejslib/msgpack/compare/v3.5.23...v3.6.0)
+
 ### v3.5.23 (2026-09-20)
 
 **Other changes:**
