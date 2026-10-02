@@ -37,7 +37,7 @@ function assertEncodedPrefix ( encode, value, expected ) {
     return bytes;
 }
 
-function runCodecTests ( name, encode, decode, binaryFactory, binaryMarkers ) {
+export function runCodecTests ( name, encode, decode, binaryFactory, binaryMarkers ) {
     suite( name, () => {
         suite( "primitive values", () => {
             const integers = [
@@ -280,5 +280,3 @@ function runCodecTests ( name, encode, decode, binaryFactory, binaryMarkers ) {
         } );
     } );
 }
-
-export { runCodecTests };
