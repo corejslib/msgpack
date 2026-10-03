@@ -1,5 +1,27 @@
 # Changelog
 
+### v3.6.1 (2026-10-03)
+
+**Bug fixes:**
+
+- \[PATCH] fix: correct UTF-8 encoding and 64-bit integer decoding (● [87cfa18](https://github.com/corejslib/msgpack/commit/87cfa18); 👬 zdm)
+
+    Add an npm test script.
+
+**Code refactoring:**
+
+- \[PATCH] refactor: export runCodecTests directly (● [f5fdd92](https://github.com/corejslib/msgpack/commit/f5fdd92); 👬 zdm)
+
+**Other changes:**
+
+- chore: add codec regression tests (● [3b0d0cb](https://github.com/corejslib/msgpack/commit/3b0d0cb); 👬 zdm)
+
+    Add a shared codec test suite plus browser and Node test harnesses covering primitive values, strings, binary payloads, arrays and maps, extensions, and nested decoding behavior.
+
+- chore(metadata): update package metadata (● [bbe231b](https://github.com/corejslib/msgpack/commit/bbe231b); 👬 zdm)
+
+Compare with the previous release: [v3.6.0...v3.6.1](https://github.com/corejslib/msgpack/compare/v3.6.0...v3.6.1)
+
 ### v3.6.0 (2026-09-21)
 
 **New features:**
