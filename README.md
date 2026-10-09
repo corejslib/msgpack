@@ -3,6 +3,9 @@
 > \[!NOTE]
 > Please, see the full project documentation here: <https://corejslib.github.io/msgpack/>
 
+> \[!WARNING]
+> This package is deprecated. Use `@corejslib/core/msgpack`.
+
 # Introduction
 
 Fork of the `notepack.io` with improvements:

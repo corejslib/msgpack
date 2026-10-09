@@ -1,3 +1,6 @@
+> \[!WARNING]
+> This package is deprecated. Use `@corejslib/core/msgpack`.
+
 # Introduction
 
 Fork of the `notepack.io` with improvements:
