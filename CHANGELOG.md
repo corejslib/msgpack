@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.6.2 (2026-10-09)
+
+**Other changes:**
+
+- docs: mark package as deprecated in READMEs (● [4839d78](https://github.com/corejslib/msgpack/commit/4839d78); 👬 zdm)
+
+Compare with the previous release: [v3.6.1...v3.6.2](https://github.com/corejslib/msgpack/compare/v3.6.1...v3.6.2)
+
 ### v3.6.1 (2026-10-03)
 
 **Bug fixes:**
